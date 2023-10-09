@@ -1,0 +1,24 @@
+/*Aliniem tot el body*/
+body {
+    text-align: center; 
+}
+
+/*Aliniem la taula deixan marcs*/
+table{
+    margin-left: 35%;
+}
+
+/*Cambiem el color del titol*/
+h1 {
+    color: aqua;
+}
+
+/*Cambiem el color del subtitol*/
+h3{
+    color: brown;
+}
+
+/*Cambiem el color de fons de la primera fila de la taula*/
+th{
+    background-color: darkgray;
+}
