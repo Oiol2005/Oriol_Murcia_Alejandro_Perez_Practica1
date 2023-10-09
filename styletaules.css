@@ -11,14 +11,18 @@ table{
 /*Cambiem el color del titol*/
 h1 {
     color: aqua;
+    font-weight: bold;
+    text-align: center; 
 }
 
 /*Cambiem el color del subtitol*/
-h3{
+h2{
     color: brown;
 }
 
 /*Cambiem el color de fons de la primera fila de la taula*/
 th{
     background-color: darkgray;
+    font-weight: bold;
+    text-align: center; 
 }
